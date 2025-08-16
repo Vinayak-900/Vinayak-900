@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Vinayak  
 
-<!--
-**Vinayak-900/Vinayak-900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical & Electronics Engineering Graduate | 💻 Aspiring Software Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔹 Passionate about **Software Development & Backend Engineering**  
+- 🔹 Skilled in **Java, Spring Boot, REST APIs, MySQL**  
+- 🔹 Exploring **Full Stack Development & Cloud Technologies**  
+- 🔹 Interested in solving real-world problems through technology  
+
+---
+
+## 🔨 Projects  
+- 📌 **Employee Management System** (Spring Boot + MySQL)  
+- 📌 **E-commerce API** with JWT Authentication  
+- 📌 **Online Banking System** (Spring Boot + JDBC)  
+
+---
+
+## 🛠️ Tech Stack  
+- Languages:Java, SQL  
+- Frameworks:Spring Boot, JDBC, Servlet/JSP (Basics)  
+- Database: MySQL  
+- Tools: Git, GitHub, Postman  
+
+---
+
+## 📫 Connect With Me  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vinayakyatanoor)  
+- 📧 vinayakyatanoor@gmail.com  
+
+---
+⭐️ “Always learning, always building.”  
+
